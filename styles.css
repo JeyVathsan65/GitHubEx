@@ -3,4 +3,6 @@ body{
     display: flex;
     justify-content: center;
     color: green;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
 }
